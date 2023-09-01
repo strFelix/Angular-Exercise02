@@ -1,3 +1,8 @@
+npm i <br>
+npm i bootstrap <br>
+npm i bootstrap@4.6.0 <br>
+npm i jquery<br>
+
 # AtividadeRevisao
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
