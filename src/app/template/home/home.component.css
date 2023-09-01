@@ -1,0 +1,24 @@
+
+
+.badge-pill{
+  background-color: #05d36c;
+}
+.segundo-modulo{
+  background-color: brown;
+}
+.col{
+  max-width: 400px;
+}
+
+.row{
+  justify-content: center;
+  transform: scale(1.1);
+}
+
+img{
+  border-radius: 5px;
+}
+
+.list-group{
+  margin-top: 50px;
+}

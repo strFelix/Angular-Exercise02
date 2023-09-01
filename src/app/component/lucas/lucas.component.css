@@ -1,0 +1,18 @@
+.espaco-top{
+  margin-top: 50px;
+}
+
+.badge{
+  margin-left: 10px;
+  padding: 7px;
+}
+
+.badge-primary{
+  background-color: mediumpurple;
+}
+.badge-secondary{
+  background-color: mediumseagreen;
+}
+.badge-success{
+  background-color: mediumblue;
+}
